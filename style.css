@@ -1,0 +1,52 @@
+body{
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	background: linear-gradient(#ffffff 0%, #00fff2 100%)
+}
+.menu {
+	position: fixed;
+	background: white;
+	top: 0px;
+	right: 30px;
+	z-index: 10;
+	width: 100%;
+}
+
+.links {
+	color: #7d2a96;
+	padding-top: 5px;
+	padding-left: 33px;
+	padding-right: 25px;
+	padding-bottom: 5px;
+	font-family: 'Merriweather', serif;
+	font-size: 35px;
+	display: inline;
+}
+
+.links:hover {
+	background-color: white;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+a {
+	text-decoration: none;
+}
+#MCQUEEN{
+	width: 600px;
+	height: 400px;
+}
+#Tesla{
+	width: 230px;
+	height: 220px;
+}
+#BMW{
+	width: 290px;
+	height: 220px;
+}
+#ferrari{
+	width: 290px;
+	height: 220px;
+}
